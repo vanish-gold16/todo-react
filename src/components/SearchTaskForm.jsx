@@ -20,4 +20,4 @@ const SearchTaskForm = () => {
     )
 }
 
-export default SearchTaskForm2
+export default SearchTaskForm
